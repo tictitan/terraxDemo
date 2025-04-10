@@ -64,4 +64,26 @@
   "zone_name" : null,
   "data" : [ ],
   "timeouts" : [ ]
+}, {
+  "idSpring" : 6178634880174017274,
+  "allow_overwrite" : false,
+  "comment" : "",
+  "content" : "172.16.100.120",
+  "created_on" : null,
+  "hostname" : null,
+  "id" : null,
+  "metadata" : null,
+  "modified_on" : null,
+  "name" : "common-test22",
+  "priority" : null,
+  "proxiable" : null,
+  "proxied" : false,
+  "tags" : [ ],
+  "ttl" : null,
+  "type" : "A",
+  "value" : null,
+  "zone_id" : "a9886319557eb6d7228cb135823b119d",
+  "zone_name" : null,
+  "data" : [ ],
+  "timeouts" : [ ]
 } ]
