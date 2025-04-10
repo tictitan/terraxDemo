@@ -1,0 +1,9 @@
+[ {
+  "idSpring" : 6529810670613316358,
+  "description" : "My example Magic Transit ruleset",
+  "expression" : "(http.request.uri.path ~ \".*wp-login.php\" or http.request.uri.path ~ \".*xmlrpc.php\") and ip.src ne 192.0.2.2",
+  "id" : null,
+  "paused" : false,
+  "ref" : "test2",
+  "zone_id" : "a9886319557eb6d7228cb135823b119d"
+} ]
